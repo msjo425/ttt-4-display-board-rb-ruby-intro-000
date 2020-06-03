@@ -2,3 +2,4 @@
 # out the current state.
 
 def display_board
+end
