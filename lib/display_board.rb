@@ -3,4 +3,5 @@
 
 def display_board(state)
 puts " #{state[0]} | #{state[1]} | #{state[2]} "
+puts "-----------"
 end
