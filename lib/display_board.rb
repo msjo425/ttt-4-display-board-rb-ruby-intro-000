@@ -2,5 +2,5 @@
 # out the current state.
 
 def display_board(state)
-puts "#{state[0]}"
+puts " #{state[0]} "
 end
